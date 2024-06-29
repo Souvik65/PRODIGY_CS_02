@@ -1,8 +1,8 @@
 # PRODIGY_CS_02
 #
-![2](https://github.com/Souvik65/PRODIGY_CS_02/assets/97207393/fa303106-da69-4b69-b55b-e5ec72b9ef89)
-#
-![2r](https://github.com/Souvik65/PRODIGY_CS_02/assets/97207393/96ce8e3f-53db-41d3-970e-e9caeee04bc5)
-#
-![2rr](https://github.com/Souvik65/PRODIGY_CS_02/assets/97207393/1f897593-0fdb-4e50-a1f8-4e4eee75da09)
+![pixel](https://github.com/Souvik65/PRODIGY_CS_02/assets/97207393/b3aacf95-70ab-4562-b815-cba05b4aafe7)
+
+# Example :-
+![1](https://github.com/Souvik65/PRODIGY_CS_02/assets/97207393/60e405d8-74b2-48da-9efd-cc4179630a47)
+![2](https://github.com/Souvik65/PRODIGY_CS_02/assets/97207393/7f83f04d-3ecc-48eb-b049-11f0a9f520aa)
 
